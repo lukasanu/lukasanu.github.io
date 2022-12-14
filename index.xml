@@ -6,7 +6,16 @@
     <description>Recent content on 4 Laboratorinis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2022 21:03:25 +0200</lastBuildDate><atom:link href="https://lukasanu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 22:35:14 +0200</lastBuildDate><atom:link href="https://lukasanu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puslapis su paveiksleliu ir kodu</title>
+      <link>https://lukasanu.github.io/posts/puslapissupaveiksleliu/</link>
+      <pubDate>Wed, 14 Dec 2022 22:35:14 +0200</pubDate>
+      
+      <guid>https://lukasanu.github.io/posts/puslapissupaveiksleliu/</guid>
+      <description>199 200 201 202 203 204 205 206 207 208 func GetTitleFunc(style string) func(s string) string { switch strings.ToLower(style) { case &amp;#34;go&amp;#34;: return strings.Title case &amp;#34;chicago&amp;#34;: return transform.NewTitleConverter(transform.ChicagoStyle) default: return transform.NewTitleConverter(transform.APStyle) } } </description>
+    </item>
+    
     <item>
       <title>Puslapenzas</title>
       <link>https://lukasanu.github.io/posts/ketvirtolaboropuslapis/</link>
