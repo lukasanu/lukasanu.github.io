@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 4 Laboratorinis</title>
-    <link>https://lukasanu.github.io/posts/</link>
+    <link>https://www.lukasanu.github.io/posts/</link>
     <description>Recent content in Posts on 4 Laboratorinis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2022 21:03:25 +0200</lastBuildDate><atom:link href="https://lukasanu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 21:03:25 +0200</lastBuildDate><atom:link href="https://www.lukasanu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Puslapenzas</title>
-      <link>https://lukasanu.github.io/posts/ketvirtolaboropuslapis/</link>
+      <link>https://www.lukasanu.github.io/posts/ketvirtolaboropuslapis/</link>
       <pubDate>Wed, 14 Dec 2022 21:03:25 +0200</pubDate>
       
-      <guid>https://lukasanu.github.io/posts/ketvirtolaboropuslapis/</guid>
+      <guid>https://www.lukasanu.github.io/posts/ketvirtolaboropuslapis/</guid>
       <description>Follow Quick Start guide to setup hugo and create a new site.
 Note: Use -f to select yml format
 hugo new site -f yml
